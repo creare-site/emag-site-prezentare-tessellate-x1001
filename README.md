@@ -11,7 +11,7 @@ Site prezentare Tessellate, un produs [WebsiteMarket](https://websitemarket.ro),
 ## Informatii produs
 
 - Site de prezentare Tessellate cu hosting inclus - vandut pe [eMAG.ro](https://www.emag.ro)
-- [Site Prezentare Pensiune cu hosting inclus - DEMO](https://emag-site-prezentare-pensiune-x1000.websitemarket.ro)
+- [Site Prezentare Pensiune cu hosting inclus - DEMO](https://emag-site-prezentare-tessellate-x1001.websitemarket.ro)
  
 <br />
 
