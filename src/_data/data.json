@@ -1,0 +1,30 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "phone"          : "0766612322",
+    "address"        : "Constanta, Romania",
+    "design"         : "Tessellate by Html5 UP",
+
+    "app_title"      : "Site Prezentare Tessellate",
+    "app_subtitle"   : "Hosting 1an Inclus. Un produs WebsiteMarket, vandut pe eMAG.ro",
+
+    "seo_title"      : "Site Prezentare Tessellate, Hosting Inclus - Vandut pe eMAG.ro | WebsiteMarket",
+    "seo_desc"       : "Site de prezentare Tessellate, cu hosting pe 1an inclus. Un produs WebsiteMarket vandut pe eMAG.ro.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://www.emag.ro/brands/brand/websitemarket", 
+    "github"         : "https://github.com/creare-site/emag-site-prezentare-tessellate-x1001/",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "youtube"        : "https://www.youtube.com/channel/UC-0NiPw917xWfEAfl8SRCfg/",
+    "medium"         : "https://medium.com/@websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
